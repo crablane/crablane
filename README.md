@@ -2,7 +2,7 @@
 - 🦀 Hi, I’m Carlotta / @crablane!
 - 👩‍💻 I’m a social scientist and data analyst in the public health sector, based in Essen, Germany.
 - 🎸 I am currently exploring the spotifyr-package and am interested in making maps
-- 🗣 I am fluent in German, English and STATA. Looking to improve my skills R and Python
+- 🗣 I am fluent in German, English and STATA. Looking to improve my skills in R and Python
 - 🧭 Fun fact: I have a pretty good sense of direction 
 
 
